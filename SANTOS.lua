@@ -3,7 +3,7 @@ local TablePlace = {7449423635,2753915549,4442272183}
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Santos", -- Required
 	Text = "Continuo atualizando mais, Esperem por mim baubau~", -- Required
-	Icon = "rbxassetid://9709149431", -- Optional
+	Icon = "https://imgur.com/mJS4CDJ", -- Optional
 	Duration = 10
 })
 if table.find(TablePlace,game.PlaceId) then
